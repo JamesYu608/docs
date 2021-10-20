@@ -1,5 +1,3 @@
-:source-highlighter: rouge
-
 = James Yu Docs
 
 include::shortcuts.adoc[leveloffset=+1]

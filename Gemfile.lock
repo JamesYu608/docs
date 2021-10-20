@@ -9,18 +9,13 @@ GEM
       rexml
     asciidoctor-diagram-ditaamini (1.0.1)
     asciidoctor-diagram-plantuml (1.2021.8)
-    asciidoctor-rouge (0.4.0)
-      asciidoctor (>= 1.5.6, < 2.1)
-      rouge (>= 2.2, < 4)
     rexml (3.2.5)
-    rouge (3.26.1)
 
 PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
   asciidoctor-diagram
-  asciidoctor-rouge
 
 BUNDLED WITH
    2.2.22

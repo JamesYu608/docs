@@ -5,6 +5,7 @@ build: $(shell find source -type f)
 		-a experimental \
 		-a toc=left \
 		-a imagesdir=images \
+		-a source-highlighter=highlight.js \
 		-a icons=font \
 		-a sectlinks \
 		-a prewrap! \
