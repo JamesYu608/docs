@@ -1,0 +1,28 @@
+= Shortcuts
+
+|===
+|Shortcut |Purpose
+
+|kbd:[F11]
+|Toggle fullscreen
+
+|kbd:[Ctrl+T]
+|Open a new tab
+
+|===
+
+[source, ruby]
+----
+class Demo
+  attr_reader :name, :age
+
+  def initialize(name, age)
+    @name = name
+    @age = age
+  end
+
+  def hello
+    puts 'hello, world!'
+  end
+end
+----
