@@ -26,7 +26,7 @@ jobs:
       - name: Build
         run: |
           make clean
-          make -j $(nproc) build/index.html
+          make -j $(nproc) build
       - name: Deploy
         run: |
           cd build
