@@ -22,7 +22,7 @@ class Demo
   end
 
   def hello
-    puts 'hello, world!'
+    'hello, world!'
   end
 end
 ----
