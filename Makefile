@@ -16,3 +16,4 @@ build: $(shell find source -type f)
 .PHONY: clean
 clean:
 	rm -rf build/*
+	rm -rf build/.asciidoctor
